@@ -1,0 +1,8 @@
+.open>.dropdown-menu {
+    display: block
+}
+
+.btn-group,
+.btn-group-vertical {
+    display: inline-block;
+}
